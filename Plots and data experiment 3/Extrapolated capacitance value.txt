@@ -1,0 +1,1 @@
+The extrapolated capacitance value is 601 pF (closely approximates the capacitance value derived in pt 2)

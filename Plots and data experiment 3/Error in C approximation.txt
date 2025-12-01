@@ -1,0 +1,12 @@
+The error in C between the binomial approximation and the full equation for C in trial  1 is 0.0012 percent 
+The error in C between the binomial approximation and the full equation for C in trial  2 is 0.0002 percent 
+The error in C between the binomial approximation and the full equation for C in trial  3 is 0.0006 percent 
+The error in C between the binomial approximation and the full equation for C in trial  4 is 0.0269 percent 
+The error in C between the binomial approximation and the full equation for C in trial  5 is 0.0244 percent 
+The error in C between the binomial approximation and the full equation for C in trial  6 is 0.0262 percent 
+The error in C between the binomial approximation and the full equation for C in trial  7 is 0.0680 percent 
+The error in C between the binomial approximation and the full equation for C in trial  8 is 0.0612 percent 
+The error in C between the binomial approximation and the full equation for C in trial  9 is 0.0619 percent 
+The error in C between the binomial approximation and the full equation for C in trial  10 is 0.1268 percent 
+The error in C between the binomial approximation and the full equation for C in trial  11 is 0.1264 percent 
+The error in C between the binomial approximation and the full equation for C in trial  12 is 0.1258 percent 
