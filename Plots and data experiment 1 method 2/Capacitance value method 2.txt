@@ -1,0 +1,1 @@
+The weighted mean of capacitance across the 15 trials is (1110+-53.2 microFarads)
